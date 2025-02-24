@@ -17,10 +17,12 @@ class MyQueue {
     //Function to push an element x in a queue.
     void push(int x)
     {
+        //front == -1
         if(s==0){
             front++;
             rear++;
         }
+        //(rear + 1) % arr.length == front...full
         else if(s==arr.length){
             return;
         }
@@ -40,6 +42,7 @@ class MyQueue {
             return -1;
         }
         int x=arr[front];
+        //front == rear
         if(s==1){
 
             front=rear=-1;
