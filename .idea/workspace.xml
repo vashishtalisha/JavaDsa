@@ -5,30 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7efd38c-7ac8-4a76-b8ac-e4f67bfa1c46" name="Changes" comment="Binary search and linkedList basics">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/PopulatingNextRightPointers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryTrees/kthSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassQues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassQues/WildcardMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/CountZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/ReverseANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksQueues/NextGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksQueues/StackUsingLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksQueues/StackUsingQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StacksQueues/SumOfSubArrayMins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassQues/Patterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassQues/Wrapper2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassQues/WrapperEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RotatedBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TwoPointers/LongestSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksQueues/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StacksQueues/MyQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/BubbleSort3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +48,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinearSearch">
-    <configuration name="CountZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.CountZeroes" />
+  <component name="RunManager" selected="Application.LongestSubstring">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.LinearSearch" />
+    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoPointers.LongestSubstring" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="TwoPointers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Palindrome" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseANumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.ReverseANumber" />
+    <configuration name="Wrapper2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassQues.Wrapper2" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="ClassQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.Sorted" />
+    <configuration name="WrapperEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassQues.WrapperEx" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="ClassQues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinearSearch" />
-        <item itemvalue="Application.Sorted" />
-        <item itemvalue="Application.CountZeroes" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.ReverseANumber" />
+        <item itemvalue="Application.LongestSubstring" />
+        <item itemvalue="Application.WrapperEx" />
+        <item itemvalue="Application.Wrapper2" />
+        <item itemvalue="Application.SelectionSort" />
+        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738465178239</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Binary search and linkedList basics">
+      <created>1740415175780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1740415175780</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
