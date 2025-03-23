@@ -5,16 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7efd38c-7ac8-4a76-b8ac-e4f67bfa1c46" name="Changes" comment="Binary search and linkedList basics">
-      <change afterPath="$PROJECT_DIR$/src/ClassQues/Patterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassQues/Wrapper2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassQues/WrapperEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RotatedBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TwoPointers/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitManipulation/DecimalToB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitManipulation/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitManipulation/SingleNonRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BitManipulation/ithBit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassQues/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassQues/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassQues/MaximunProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassQues/SubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassQues/decToHex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassQues/q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/AllPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/CycleDirected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/CycleUndirected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/Graph1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Graphs/TopologicalSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/BubbleSort3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassQues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StacksQueues/StackUsingLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StacksQueues/StackUsingLL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +57,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LongestSubstring">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.BubbleSort" />
+  <component name="RunManager" selected="Application.ithBit">
+    <configuration name="CycleDirected" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.CycleDirected" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoPointers.LongestSubstring" />
+    <configuration name="DecimalToB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitManipulation.DecimalToB" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TwoPointers.*" />
+          <option name="PATTERN" value="BitManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
+    <configuration name="SingleNonRepeating" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitManipulation.SingleNonRepeating" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="BitManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Wrapper2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassQues.Wrapper2" />
+    <configuration name="TopologicalSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graphs.TopologicalSort" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClassQues.*" />
+          <option name="PATTERN" value="Graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ClassQues.WrapperEx" />
+    <configuration name="ithBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitManipulation.ithBit" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ClassQues.*" />
+          <option name="PATTERN" value="BitManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LongestSubstring" />
-        <item itemvalue="Application.WrapperEx" />
-        <item itemvalue="Application.Wrapper2" />
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.ithBit" />
+        <item itemvalue="Application.DecimalToB" />
+        <item itemvalue="Application.SingleNonRepeating" />
+        <item itemvalue="Application.TopologicalSort" />
+        <item itemvalue="Application.CycleDirected" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1740415175780</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Binary search and linkedList basics">
+      <created>1740924837407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740924837407</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
