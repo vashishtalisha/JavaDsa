@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c7efd38c-7ac8-4a76-b8ac-e4f67bfa1c46" name="Changes" comment="Binary search and linkedList basics">
-      <change afterPath="$PROJECT_DIR$/src/Sorting/MergeInPlace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaximumConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RemoveDupes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/maxScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/HeapImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/Ksorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heaps/kLargestElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StacksQueues/StackUsingLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StacksQueues/StackUsingLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/pattern1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.VCS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SelectionSort">
-    <configuration name="DecimalToB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitManipulation.DecimalToB" />
+  <component name="RunManager" selected="Application.MaximumConsecutiveOnes">
+    <configuration name="Ksorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heaps.Ksorted" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitManipulation.*" />
+          <option name="PATTERN" value="Heaps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeInPlace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.MergeInPlace" />
+    <configuration name="MaximumConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MaximumConsecutiveOnes" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.MergeSort" />
+    <configuration name="RemoveDupes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.RemoveDupes" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.SelectionSort" />
+    <configuration name="maxScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.maxScore" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ithBit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitManipulation.ithBit" />
+    <configuration name="pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.pattern1" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BitManipulation.*" />
+          <option name="PATTERN" value="Arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.MergeInPlace" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.ithBit" />
-        <item itemvalue="Application.DecimalToB" />
+        <item itemvalue="Application.MaximumConsecutiveOnes" />
+        <item itemvalue="Application.pattern1" />
+        <item itemvalue="Application.maxScore" />
+        <item itemvalue="Application.RemoveDupes" />
+        <item itemvalue="Application.Ksorted" />
       </list>
     </recent_temporary>
   </component>
@@ -180,5 +184,20 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Binary search and linkedList basics" />
     <option name="LAST_COMMIT_MESSAGE" value="Binary search and linkedList basics" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Arrays/maxScore.java</url>
+          <line>7</line>
+          <properties class="Arrays.maxScore" method="pairWithMaxSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
